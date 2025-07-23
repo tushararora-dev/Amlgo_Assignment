@@ -85,10 +85,6 @@ Prompt is carefully tuned to:
 ## 💬 Running the Chatbot with Streaming
 
 ```bash
-pip install -r requirments.txt
-```
-
-```bash
 streamlit run app.py
 ```
 
