@@ -138,4 +138,18 @@ This chatbot provides information **based only on the uploaded documents**. It d
 
 Tushar Arora — \[Amlgo Labs Junior AI Engineer Assignment]
 
-[PDF OF DOCUMENTATON AND REPORT](Documentation_images\Documentation_&_Report_page-0001.jpg)
+[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0001.jpg)
+
+[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0001.jpg)
+
+[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0001.jpg)
+
+[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0001.jpg)
+
+[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0001.jpg)
+
+[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0001.jpg)
+
+[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0001.jpg)
+
+[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0001.jpg)
