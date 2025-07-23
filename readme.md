@@ -5,7 +5,7 @@ A Retrieval-Augmented Generation (RAG) chatbot built using **LangChain**, **Groq
 ---
 
 ![Folder_Structure](Folder_structure.png)
-
+[PDF OF DOCUMENTATON AND REPORT](Documentation_&_Report.pdf)
 ## 📐 Project Architecture & Flow
 
 ```mermaid
@@ -138,4 +138,4 @@ This chatbot provides information **based only on the uploaded documents**. It d
 
 Tushar Arora — \[Amlgo Labs Junior AI Engineer Assignment]
 
-[Some title here](Documentation_&_Report.pdf)
+[PDF OF DOCUMENTATON AND REPORT](Documentation_&_Report.pdf)
