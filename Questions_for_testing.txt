@@ -1,0 +1,79 @@
+ Section 1: Introduction & Agreement Scope
+What is the legal entity you contract with when using eBay services in India?
+
+How are disputes with eBay typically resolved according to the User Agreement?
+
+What rights do users waive by agreeing to the arbitration clause?
+
+What happens if a user does not opt out of the arbitration agreement?
+
+🔹 Section 2: About eBay & Use of AI
+What role does eBay claim to have in transactions between buyers and sellers?
+
+How does eBay utilize AI within its services?
+
+What disclaimers does eBay make about the availability and accuracy of AI tools?
+
+🔹 Section 3: Rules of Usage
+List at least five actions that are prohibited while using eBay Services.
+
+What consequences may occur if a seller fails to meet eBay's minimum performance standards?
+
+What actions might eBay take if a user violates its policy on off-platform transactions?
+
+🔹 Section 4: Vehicle Transactions
+Who powers eBay’s Secure Checkout for vehicle purchases?
+
+Why does eBay disclaim responsibility for vehicle inspections and warranties?
+
+What kind of expertise does eBay recommend for vehicle buyers?
+
+🔹 Section 6: Fees and Taxes
+Who is liable for fees if a sale is made using eBay Services but finalized off-platform?
+
+What are the potential consequences for sellers if their account becomes past due?
+
+🔹 Section 7: Listing Conditions
+What factors influence the appearance of a listing in eBay search results?
+
+Under what conditions can eBay modify or remove a seller’s listing?
+
+What responsibility does a seller have when using AI tools provided by eBay?
+
+🔹 Section 8: Purchase Conditions
+When is a buyer considered to have entered into a legally binding contract?
+
+How does ownership of an item transfer between seller and buyer according to eBay’s policies?
+
+🔹 Section 10: Content Rights & Responsibilities
+What license do users grant to eBay for content uploaded through its Services?
+
+What warranties must a user provide when submitting content?
+
+Can a seller use third-party product data outside of eBay listings?
+
+🔹 Section 13: Privacy & Communications
+Under what circumstances can eBay contact users using autodialed or prerecorded calls?
+
+What happens to messages sent through eBay’s messaging systems?
+
+How does eBay ensure compliance when sharing user contact information with third-party service providers?
+
+🔹 Section 14: Returns, Cancellations & Money Back Guarantee
+When can eBay issue refunds on a seller’s behalf?
+
+How does eBay handle return shipping labels in automated returns?
+
+What actions can lead to the suspension of the eBay Money Back Guarantee?
+
+🔹 Section 16–19: Legal Disputes & Arbitration
+What is the default dispute resolution method for legal claims against eBay?
+
+What types of claims are exempt from arbitration?
+
+What is “Batch Arbitration,” and when is it triggered?
+
+What must a user do to opt out of the arbitration clause?
+
+If arbitration is not applicable, where must disputes be resolved?
+
