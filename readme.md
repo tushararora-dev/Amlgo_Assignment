@@ -142,14 +142,14 @@ Tushar Arora — \[Amlgo Labs Junior AI Engineer Assignment]
 
 [PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0001.jpg)
 
-[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0001.jpg)
+[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0003.jpg)
 
-[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0001.jpg)
+[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0004.jpg)
 
-[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0001.jpg)
+[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0005.jpg)
 
-[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0001.jpg)
+[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0006.jpg)
 
-[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0001.jpg)
+[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0007.jpg)
 
-[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0001.jpg)
+[PDF OF DOCUMENTATON AND REPORT](Documentation_images/Documentation_&_Report_page-0008.jpg)
