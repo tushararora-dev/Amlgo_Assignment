@@ -114,7 +114,7 @@ Features:
 ## 📸 Screenshots / Demo
 
 
-📺 **Demo Video**: [Watch on Loom](https://www.loom.com/share/sample-demo-link)
+📺 **Demo Video**: [Watch on YT](https://www.loom.com/share/sample-demo-link)
 
 ---
 
